@@ -8,4 +8,9 @@
 - **Tech:** Linux, GitHub, R Markdown, Tableau
 - **Interests:** Data Science, Biostatistics, Analytics
 
-- 
+  ### 🎵 Music I Enjoy
+
+| [![Starboy](https://i.scdn.co/image/ab67616d0000b2737f64d0f8a3a678d11c3e6f2e)](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | [![Infinite Dream](https://i.scdn.co/image/ab67616d0000b2732ff9ca10b55ce82ae553c8228)](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | [![Stick Season](https://i.scdn.co/image/ab67616d0000b2732c5c7d2333ad4e8d9c7e5075)](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) |
+|---|---|---|
+| Starboy | Infinite Dream | Stick Season |
+
